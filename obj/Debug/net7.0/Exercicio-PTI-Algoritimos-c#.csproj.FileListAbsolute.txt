@@ -1,0 +1,15 @@
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.csproj.AssemblyReference.cache
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.AssemblyInfoInputs.cache
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.AssemblyInfo.cs
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.csproj.CoreCompileInputs.cache
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\bin\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.exe
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\bin\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.deps.json
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\bin\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.runtimeconfig.json
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\bin\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.dll
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\bin\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.pdb
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.dll
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\refint\Exercicio-PTI-Algoritimos-c#.dll
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.pdb
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\Exercicio-PTI-Algoritimos-c#.genruntimeconfig.cache
+C:\Users\renan\Desktop\Exercicio-PTI-Algoritimos-c#\obj\Debug\net7.0\ref\Exercicio-PTI-Algoritimos-c#.dll
